@@ -1,6 +1,7 @@
 # CLI Task Tracker
 
-From [Roadmap.sh - Task Tracker](https://roadmap.sh/projects/task-tracker)
+**From** Roadmap.sh - Task Tracker
+https://roadmap.sh/projects/task-tracker
 
 Completed task is `track.go` that loads/checks `taskList.json`
 
