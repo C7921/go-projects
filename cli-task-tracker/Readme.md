@@ -2,6 +2,8 @@
 
 From [Roadmap.sh - Task Tracker](https://roadmap.sh/projects/task-tracker)
 
+Completed task is `track.go` that loads/checks `taskList.json`
+
 ## Task Requirements
 
 Run from command line, accept user actions/inputs and store task in JSON file:
